@@ -1,6 +1,6 @@
 {
   "name": "test-testing-dummy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Test Testing Dummy",
   "author": "autopulated",
   "homepage": "https://github.com/autopulated/test-testing-dummy",
@@ -12,9 +12,9 @@
   ],
   "dependencies": {},
   "targetDependencies": {},
-  "testTargetDependencies":{
-      "x86-osx-native": {
-          "test-target-dep": "~0.0.1"
-      }
+  "testTargetDependencies": {
+    "x86-osx-native": {
+      "test-target-dep": "~0.0.1"
+    }
   }
 }
