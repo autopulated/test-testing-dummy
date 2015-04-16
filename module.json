@@ -1,0 +1,20 @@
+{
+  "name": "test-testing-dummy",
+  "version": "0.0.1",
+  "description": "Test Testing Dummy",
+  "author": "autopulated",
+  "homepage": "https://github.com/autopulated/test-testing-dummy",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "dependencies": {},
+  "targetDependencies": {},
+  "testTargetDependencies":{
+      "x86-osx-native": {
+          "test-target-dep": "~0.0.1"
+      }
+  }
+}
